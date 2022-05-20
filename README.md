@@ -1,12 +1,2 @@
-UNDER CONSTRUCTION
+Place for all the programs that I have written. Still under construction.
 
-- 👋 Hi, I’m @Blearfgh also known as Vili
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Blearfgh/Blearfgh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
